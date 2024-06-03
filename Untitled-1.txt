@@ -1,0 +1,4 @@
+Bucket name: e-comerce2
+nombre pilitica: S3AccesEcomerce
+Clave de acceso: AKIATCKATRHHF75T6YEZ
+Clave de acceso secreta: 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
